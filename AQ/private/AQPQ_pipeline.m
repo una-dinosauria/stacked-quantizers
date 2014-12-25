@@ -42,7 +42,7 @@ CODEBOOKS   = cell(  NITS_AQ+1, 1 );
 DISTORTIONS = zeros( NITS_AQ+1, 1 );
 
 %% === Initialize with OPQ ===
-[model, B, ~] = ckmeans(X, M, NWORDS, NITQ_OPQ, 'natural', false);
+[model, B] = ckmeans(X, M, NWORDS, NITQ_OPQ, 'natural');
 
 R               = model.R;
 codesopq        = B;
