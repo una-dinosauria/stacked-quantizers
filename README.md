@@ -26,7 +26,7 @@ For a demonstration of approximate nearest neighbour search
 
 If you find this code useful, please consider citing our paper:
 
-Martinez, Julieta, Holger H. Hoos, and James J. Little.: *Stacked Quantizers for Compositional Vector Compression.* arXiv preprint arXiv:1411.2173 (2014).
+Julieta Martinez, Holger H. Hoos, and James J. Little.: *Stacked Quantizers for Compositional Vector Compression.* arXiv preprint arXiv:1411.2173 (2014).
 
 ### Acknowledgements
 
