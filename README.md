@@ -10,8 +10,8 @@ This code was mostly written by [Julieta](http://www.cs.ubc.ca/~julm/).
 ### Datasets
 
 The demo requires you to download the `convnet1m-128` dataset, and put it into a `/data` folder at the top directory.
-* The datasets for training, queries and database are available at 
-* The ground truth is available at 
+* The datasets for training, queries and database are available in:  [features_m_128.mat](https://drive.google.com/file/d/0BxWzojlLp259aUt4Z1ZCMzVDQlk/view?usp=sharing)
+* The ground truth is available in: [features_m_128_gt.mat](https://drive.google.com/file/d/0BxWzojlLp259cmJkeG40S3oxR28/view?usp=sharing)
 
 `SIFT1M` and `GIST1M` can be downloaded from [INRIA](http://corpus-texmex.irisa.fr/).
 
