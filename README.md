@@ -5,7 +5,7 @@ This is the code for the paper
 
 Julieta Martinez, Holger H. Hoos and James J. Little: *Stacked Quantizers for Compositional Vector Compression*, available at: http://arxiv.org/abs/1411.2173
 
-This code was mostly written by [Julieta](http://www.cs.ubc.ca/~julm/).
+This code was mostly written by [Julieta Martinez](https://github.com/una-dinosauria/).
 
 ### Datasets
 
