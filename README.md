@@ -7,6 +7,12 @@ Julieta Martinez, Holger H. Hoos and James J. Little: *Stacked Quantizers for Co
 
 This code was mostly written by [Julieta Martinez](https://github.com/una-dinosauria/).
 
+## Deprecation notice
+
+Please note that I am no longer mantaining this code, and I discourage you from using Matlab at all.
+
+You can run stacked quantizers and many other quantization methods in Julia using [Rayuela.jl](https://github.com/una-dinosauria/Rayuela.jl)
+
 ### Datasets
 
 The demo requires you to download the `convnet1m-128` dataset, and put it into a `/data` folder at the top directory.
