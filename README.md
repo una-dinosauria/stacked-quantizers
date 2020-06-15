@@ -1,3 +1,12 @@
+Deprecation notice (June 2020)
+=================
+
+Please note that I am no longer mantaining this code, and I discourage you from using Matlab.
+
+You can run stacked quantizers and many other quantization methods in [Julia](https://julialang.org/) using [Rayuela.jl](https://github.com/una-dinosauria/Rayuela.jl)
+
+-------
+
 Stacked Quantizers
 ==================
 
@@ -6,12 +15,6 @@ This is the code for the paper
 Julieta Martinez, Holger H. Hoos and James J. Little: *Stacked Quantizers for Compositional Vector Compression*, available at: http://arxiv.org/abs/1411.2173
 
 This code was mostly written by [Julieta Martinez](https://github.com/una-dinosauria/).
-
-## Deprecation notice
-
-Please note that I am no longer mantaining this code, and I discourage you from using Matlab at all.
-
-You can run stacked quantizers and many other quantization methods in Julia using [Rayuela.jl](https://github.com/una-dinosauria/Rayuela.jl)
 
 ### Datasets
 
